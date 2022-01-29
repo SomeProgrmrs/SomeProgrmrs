@@ -1,6 +1,6 @@
 >FUCK YOU BILL GATES. L I N U X
 
-I am a psychopathic programmer (joke) that has an obsession with Linux and Python. I have my own Linux Distro, Sodeep. Based on Deepin, Sodeep is a RamcherOS fork.
+I am a psychopathic programmer (joke) that has an obsession with Linux and Python. I have my own Linux Distro, Sodeep. Based on Deepin, Sodeep is a RancherOS fork.
 ```python
 print('this is a cry for help plea-')
 ```
